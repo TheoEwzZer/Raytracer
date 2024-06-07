@@ -1,0 +1,5 @@
+*.o
+*.ppm
+*.so
+.vscode
+raytracer
